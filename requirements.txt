@@ -39,7 +39,7 @@ six==1.15.0
 toml==0.10.1
 tornado==6.0.4
 torpy==1.0.10
-urllib3==1.25.9
+urllib3==1.26.5
 websockets==8.1
 wrapt==1.12.1
 yarl==1.4.2
